@@ -16,11 +16,11 @@ BOT_TOKEN = getenv("BOT_TOKEN", "")
 # -------------------------------------------------------
 OWNER_USERNAME = getenv("OWNER_USERNAME","KRISHNA")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME" , "Honeymusics_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "@Shikimori_san_music_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME" , "HoneyMusic")
 # ---------------------------------------------------------
-ASSUSERNAME = getenv("ASSUSERNAME" , "Honeymusic)
+ASSUSERNAME = getenv("ASSUSERNAME" , "Honeymusic")
 # ---------------------------------------------------------
 
 
